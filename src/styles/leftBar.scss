@@ -1,0 +1,15 @@
+#root {
+  display: flex;
+  height: 100%;
+
+  .left-bar-container {
+    width: 15%;
+    background: #cc202073;
+    padding: 50px 20px;
+
+    .cat-item-container {
+      padding: 20px 0;
+      cursor: pointer;
+    }
+  }
+}
